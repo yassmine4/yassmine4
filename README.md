@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yassmine4
+- 👀 I’m interested in programming and computer science
+- 🌱 I’m currently learning computer science
